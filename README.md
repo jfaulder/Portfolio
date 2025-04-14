@@ -15,6 +15,11 @@ Long Description
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+  ![alt text](<assets>/Excel 36H.png)
+  ![alt text](<assets>/MS Azure 36H.png)
+  ![alt text](<assets>/Power BI 36H.png)
+  ![alt text](<assets>/Python Pandas 36H.png)
+  ![alt text](<assets>/Tableau 36H.png)
 </p>
 
 
