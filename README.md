@@ -20,8 +20,11 @@ Long Description
 ![alt text](assets/Power BI 36H.png)
 ![alt text](assets/Python Pandas 36H.png)
 </p>
-![alt text](<assets>/Tableau 36H.png)
-
+![alt text](assets/excel_36h.png)
+![alt text](assets/ms_azure_36h.png)
+![alt text](assets/power_bi_36h.png)
+![alt text](assets/python_pandas_36h.png)
+![alt text](assets/tableau_36h.png)
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ### Socials
