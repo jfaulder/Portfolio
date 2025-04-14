@@ -19,9 +19,8 @@ Long Description
 ![alt text](<assets>/MS Azure 36H.png)
 ![alt text](<assets>/Power BI 36H.png)
 ![alt text](<assets>/Python Pandas 36H.png)
-![alt text](<assets>/Tableau 36H.png)
 </p>
-
+![alt text](<assets>/Tableau 36H.png)
 
 ### Socials
 
