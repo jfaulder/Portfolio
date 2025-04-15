@@ -17,18 +17,15 @@ Long Description
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-<!---
-your comment goes here
-and here
--->
+![alt text](assets/excel.png) ![alt text](assets/azure.png) ![alt text](assets/pandas.png) ![alt text](assets/powerbi.png) ![alt text](assets/tableau.png)
 
-![alt text](assets/excel.png)
+<!---
 ![alt text](assets/excel_36h.png)
 ![alt text](assets/ms_azure_36h.png)
 ![alt text](assets/power_bi_36h.png)
 ![alt text](assets/python_pandas_36h.png)
 ![alt text](assets/tableau_36h.png)
-
+-->
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ### Socials
