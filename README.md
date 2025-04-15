@@ -17,6 +17,7 @@ Long Description
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
+<img src = “assets/excel.png” width = 100 >
 ![alt text](assets/excel.png)
 ![alt text](assets/excel_36h.png)
 ![alt text](assets/ms_azure_36h.png)
