@@ -17,9 +17,12 @@ Long Description
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-![alt text](assets/excel.png) ![alt text](assets/azure.png) ![alt text](assets/pandas.png) ![alt text](assets/powerbi.png) ![alt text](assets/tableau.png)
+
+![Microsoft Excel](assets/excel.png)(https://www.microsoft.com/en-gb/microsoft-365/excel) ![Microsoft Azure](assets/azure.png)(https://azure.microsoft.com/en-gb) ![Python Pandas](assets/pandas.png)(https://pandas.pydata.org/) ![Microsoft Power BI](assets/powerbi.png)(https://www.microsoft.com/en-gb/power-platform/products/power-bi) ![Tableau](assets/tableau.png)(https://www.tableau.com/) ![mySQL](assets/mysql.png)(https://www.mysql.com/) ![mySQL](assets/python.png)(https://www.python.org/) ![mySQL](assets/windows.png)(https://www.microsoft.com/en-gb/windows) ![mySQL](assets/macos[grey].png)(https://www.apple.com/uk/)
 
 <!---
+![mySQL](assets/)()
+![mySQL](assets/)()
 ![alt text](assets/excel_36h.png)
 ![alt text](assets/ms_azure_36h.png)
 ![alt text](assets/power_bi_36h.png)
