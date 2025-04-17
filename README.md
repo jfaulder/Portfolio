@@ -36,7 +36,7 @@ Long Description
 <a href="https://www.mysql.com/" target="_blank"><img src="assets/mysql.png">
 <a href="https://www.python.org/" target="_blank"><img src="assets/python.png">
 <a href="https://www.microsoft.com/en-gb/windows" target="_blank"><img src="assets/windows.png">
-<a href="https://www.apple.com/uk/" target="_blank"><img src="assets/macos[grey].png">
+<a href="https://www.apple.com/uk/" target="_blank"><img src="assets/macos-grey.png">
 <!-- 
 <a href="" target="_blank"><img src="">
 <a href="" target="_blank"><img src="">
