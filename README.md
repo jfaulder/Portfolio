@@ -10,6 +10,8 @@ Data Analyst
 * 🤝  I'm open to collaborating on New Challenges
 * Motivated by desire to inform key stakeholders by revealing actionable insights
 * Feel free to explore all my data projects
+* 🌍 Based in Sunderland
+* 🎓 Have a degree in Physics from The University of Warwick
 
 ### Skills
 
