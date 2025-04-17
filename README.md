@@ -17,10 +17,43 @@ Long Description
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
+<!-- Working Excel, Tableau, Power BI icons -->
+<!-- 
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="36" height="36" alt="Excel" /></a>
+<a href="https://www.tableau.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="36" height="36" alt="Tableau" /></a>
+<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/power-bi.png" width="36" height="36" alt="Power BI" /></a>
+</p>
+ -->
+ 
+<img src="">
+<a href="https://www.microsoft.com/en-gb/microsoft-365/excel" target="_blank"><img src="assets/excel.png">
+<a href="https://azure.microsoft.com/en-gb" target="_blank"><img src="assets/azure.png">
+<a href="https://pandas.pydata.org/" target="_blank"><img src="assets/pandas.png">
+<a href="https://www.microsoft.com/en-gb/power-platform/products/power-bi" target="_blank"><img src="assets/powerbi.png">
+<a href="https://www.tableau.com/" target="_blank"><img src="assets/tableau.png">
+<a href="https://www.mysql.com/" target="_blank"><img src="assets/mysql.png">
+<a href="https://www.python.org/" target="_blank"><img src="assets/python.png">
+<a href="https://www.microsoft.com/en-gb/windows" target="_blank"><img src="assets/windows.png">
+<a href="https://www.apple.com/uk/" target="_blank"><img src="assets/macos[grey].png">
+<a href="" target="_blank"><img src="">
+<a href="" target="_blank"><img src="">
+<a href="" target="_blank"><img src="">
+<a href="" target="_blank"><img src="">
+<a href="" target="_blank"><img src="">
+<a href="" target="_blank"><img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
 
-![Microsoft Excel](assets/excel.png)(https://www.microsoft.com/en-gb/microsoft-365/excel) ![Microsoft Azure](assets/azure.png)(https://azure.microsoft.com/en-gb) ![Python Pandas](assets/pandas.png)(https://pandas.pydata.org/) ![Microsoft Power BI](assets/powerbi.png)(https://www.microsoft.com/en-gb/power-platform/products/power-bi) ![Tableau](assets/tableau.png)(https://www.tableau.com/) ![mySQL](assets/mysql.png)(https://www.mysql.com/) ![mySQL](assets/python.png)(https://www.python.org/) ![mySQL](assets/windows.png)(https://www.microsoft.com/en-gb/windows) ![mySQL](assets/macos[grey].png)(https://www.apple.com/uk/)
 
 <!---
+![Microsoft Excel](assets/excel.png)(https://www.microsoft.com/en-gb/microsoft-365/excel) ![Microsoft Azure](assets/azure.png)(https://azure.microsoft.com/en-gb) ![Python Pandas](assets/pandas.png)(https://pandas.pydata.org/) ![Microsoft Power BI](assets/powerbi.png)(https://www.microsoft.com/en-gb/power-platform/products/power-bi) ![Tableau](assets/tableau.png)(https://www.tableau.com/) ![mySQL](assets/mysql.png)(https://www.mysql.com/) ![mySQL](assets/python.png)(https://www.python.org/) ![mySQL](assets/windows.png)(https://www.microsoft.com/en-gb/windows) ![mySQL](assets/macos[grey].png)(https://www.apple.com/uk/)
+-->
+
+<!---
+<img src="
 ![mySQL](assets/)()
 ![mySQL](assets/)()
 ![alt text](assets/excel_36h.png)
