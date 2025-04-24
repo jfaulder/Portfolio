@@ -7,6 +7,7 @@ Hi 👋 My name is J Faulder
 Data Analyst
 ------------
 
+
 ### About
 * 🤝  I'm open to collaborating on New Challenges
 * Motivated by desire to inform key stakeholders by revealing actionable insights
