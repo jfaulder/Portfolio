@@ -14,6 +14,7 @@ Data Analyst
 * Feel free to explore all my data projects
 * Excellent listening and communication skills
 * Perfect Punctuality
+* Logical and Critical thinking
 * 🌍 Based in Sunderland
 * 🎓 I Have a degree in Physics from The University of Warwick
 
