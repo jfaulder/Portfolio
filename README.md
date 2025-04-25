@@ -11,12 +11,13 @@ Data Analyst
 ### About
 * 🤝  I'm open to collaborating on New Challenges
 * Motivated by desire to inform key stakeholders by revealing actionable insights
-* Feel free to explore all my data projects
 * Excellent listening and communication skills
 * Perfect Punctuality
 * Logical and Critical thinking
 * 🌍 Based in Sunderland
 * 🎓 I Have a degree in Physics from The University of Warwick
+<!--* Further data projects will be added
+-->
 
 ### Skills
 
